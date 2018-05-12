@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6300
     wikipedia: http://en.wikipedia.org/wiki/William_Carleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16009#Valentine-M-Clutchy-The-Irish-AgentThe-Works-of-William-Carleton-Volume-Two
 gutenberg_issued: '2005-06-07'
 gutenberg_type: Text
 identifiers:
